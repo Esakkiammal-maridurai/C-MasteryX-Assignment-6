@@ -37,7 +37,7 @@ Name: Ravi
 Roll Number: 101
 Marks: 85.50
 2. Employee Structure
-```c
+
 #include <stdio.h>
 
 struct Employee {
@@ -75,7 +75,7 @@ ID: 201
 Name: Kumar
 Salary: 25000.00
 
-Output:
+
 3. Book Structure
 #include <stdio.h>
 
@@ -104,6 +104,7 @@ int main() {
 
     return 0;
 }
+Output:
 Enter book title: CProgramming
 Enter author name: Dennis
 Enter book price: 450
