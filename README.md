@@ -27,6 +27,7 @@ int main() {
 
     return 0;
 }
+Output:
 Enter student name: Ravi
 Enter roll number: 101
 Enter marks: 85.5
@@ -64,6 +65,7 @@ int main() {
 
     return 0;
 }
+Output:
 Enter employee ID: 201
 Enter employee name: Kumar
 Enter salary: 25000
@@ -73,6 +75,7 @@ ID: 201
 Name: Kumar
 Salary: 25000.00
 
+Output:
 3. Book Structure
 #include <stdio.h>
 
